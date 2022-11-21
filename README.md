@@ -4,6 +4,9 @@
 ### Objetivo
 O objetivo deste exercício é avaliar se o desenvolvedor tem conhecimento dos padrões de desenvolvimento Web, no que diz respeito a construção de layout, componentização, comunicação assíncrona e gerenciamento de estado.
 
+### Entrega
+A entrega da avaliação deve ser feita pelo Github, o candidato fica responsável por hospedar o código e nos enviar o link do repositório. A avaliação deve ser concluída com o prazo máximo de 5 dias.
+
 ### Requerimentos
 - NodeJS v14+
 - npm
